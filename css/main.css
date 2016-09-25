@@ -1,0 +1,17 @@
+body {
+	text-align:center;
+}
+
+.itemFrame {
+	background-color: #f9f9f9;
+	border: solid #fff 4px;
+}
+.itemFrame h1 {
+	display: inline;
+}
+button {
+	float: right;
+}	
+.infoBox {
+	padding: 15px;
+}
